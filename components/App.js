@@ -29,7 +29,7 @@ var App = React.createClass({
         return (
             <div className={'app'}>
                 <ContactForm contact={contactForm}></ContactForm>
-                <Contacts items="contacts"></Contacts>
+                <Contacts items={contacts}></Contacts>
             </div>
         );
     }
