@@ -1,0 +1,28 @@
+.app {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.contactImage {
+    width: 10%;
+    height: auto;
+    position: relative;
+    top: 27px;
+}
+
+.contactItem {
+    margin: 40px;
+    border-style: inset;
+    padding: 20px;
+}
+
+.contactLabel {
+    margin-right: 0;
+    margin-left: 20px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.contactEmail {
+    margin-left: 64px;
+}
